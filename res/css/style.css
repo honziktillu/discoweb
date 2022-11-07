@@ -137,3 +137,10 @@ body {
     background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
   }
 }
+
+@media only screen and (max-width: 1024px) {
+  #girl1, #girl2 {
+    width: 100px;
+    height: auto;
+  }
+}
